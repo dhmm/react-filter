@@ -1,0 +1,35 @@
+.filter
+{
+    width: 250px;
+    background: #333;
+    color: #fff;
+}
+.filterOptionGroup
+{
+    width: 250px;
+    background: #ccc;
+    cursor: pointer;
+}
+
+.filterOption
+{
+    width: 250px;
+    background: #fff;
+    cursor: pointer;
+}
+.filterOption:hover
+{
+    background:#f2f2f2;
+}
+.checkBox
+{
+    display:block;
+    width:20px;
+    font-weight:bold;
+    color:blue;
+    float:left;
+}
+.checkBox:hover
+{
+    background:#f2f2f2;   
+}
